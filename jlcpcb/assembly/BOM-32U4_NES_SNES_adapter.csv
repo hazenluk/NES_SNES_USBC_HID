@@ -1,0 +1,21 @@
+Comment,Designator,Footprint,LCSC
+ATmega32U4-M,U1,QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,C112161
+X322516MLB4SI,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
+14p,"C1,C2",C_0402_1005Metric,C1548
+TYPE-C-31-M-12,J1,HRO_TYPE-C-31-M-12,C165948
+LED,D1,LED_0603_1608Metric,C2286
+22r,"R5,R6",R_0402_1005Metric,C25092
+330r,R4,R_0402_1005Metric,C25104
+10k,R3,R_0402_1005Metric,C25744
+5.1k,"R1,R2",R_0402_1005Metric,C25905
+0.1u,"C5,C6,C7,C8,C9",C_0402_1005Metric,C307331
+TS-1187A-B-A-B,S1,SW_TS-1187A-B-A-B,C318884
+1u,"C10,C3",C_0402_1005Metric,C52923
+NES_Controller,J4,NES controller port,
+MountingHole_Pad,H3,MountingHole_3.2mm_M3_DIN965_Pad,
+MountingHole_Pad,H2,MountingHole_3.2mm_M3_DIN965_Pad,
+MountingHole_Pad,H1,MountingHole_3.2mm_M3_DIN965_Pad,
+SNES_Controller,J2,GAMING_SNES,
+NES_Controller,J5,NES controller port,
+10u,C4,C_0805_2012Metric,
+SNES_Controller,J3,GAMING_SNES,
