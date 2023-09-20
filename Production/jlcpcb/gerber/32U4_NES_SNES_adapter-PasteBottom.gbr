@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10)*%
-%TF.CreationDate,2023-01-18T21:36:02-05:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
+%TF.CreationDate,2023-09-20T14:55:28-04:00*%
 %TF.ProjectId,32U4_NES_SNES_adapter,33325534-5f4e-4455-935f-534e45535f61,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-01-18 21:36:02*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2023-09-20 14:55:28*
 %MOMM*%
 %LPD*%
 G01*
